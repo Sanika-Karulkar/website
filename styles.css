@@ -18,7 +18,7 @@ h3 {
   background-color: #fefcf3;
   position: relative;
   height: 500px;
-  padding-top: 100px;
+  padding-top: 45px;
 }
 .middle_container {
   background-color: #fefcf3;
@@ -26,11 +26,13 @@ h3 {
 .bottom_container {
   background-color: #fefcf3;
 }
+
 .book {
   height: 200px;
   width: 130px;
   display: inline-block;
   text-align: center;
+  margin-top: 3%;
 }
 .flight {
   height: 200px;
